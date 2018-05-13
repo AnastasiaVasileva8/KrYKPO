@@ -1,0 +1,11 @@
+﻿Сборка начата 17.11.2017 10:14:26.
+     1>Проект "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\testapp\testapp.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\testapp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\\" libgtest.lib Libapp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\testapp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\testapp.lib" /MACHINE:X86 "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\x32\testapp\main.obj"
+         "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\x32\testapp\test_calc.obj"
+         testapp.vcxproj -> C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\testapp.exe
+     1>Сборка проекта "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\testapp\testapp.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.68

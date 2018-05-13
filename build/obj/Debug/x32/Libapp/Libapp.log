@@ -1,0 +1,15 @@
+﻿Сборка начата 30.11.2017 22:09:24.
+     1>Проект "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\Libapp\Libapp.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\x32\\Libapp\\" /Fd"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\x32\\Libapp\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt calc.cpp
+         calc.cpp
+     1>c:\users\asus\desktop\3 курс (5 семестр)\управление качеством\лр2уктестир\ооп_лр1\libapp\calc.h(215): warning C4101: i: неиспользованная локальная переменная
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\Libapp.lib" /NOLOGO "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\x32\\Libapp\calc.obj"
+         Libapp.vcxproj -> C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\x32\Libapp.lib
+     1>Сборка проекта "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\Libapp\Libapp.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.00

@@ -1,0 +1,17 @@
+﻿Сборка начата 30.11.2017 22:09:27.
+     1>Проект "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\ООП_ЛР1\ООП_ЛР1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\\x32\\ООП_ЛР1\\" /Fd"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\\x32\\ООП_ЛР1\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\asus\desktop\3 курс (5 семестр)\управление качеством\лр2уктестир\ооп_лр1\libapp\calc.h(215): warning C4101: i: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\lib\Debug\\x32\\" Libapp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.lib" /MACHINE:X86 "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\obj\Debug\\x32\\ООП_ЛР1\main.obj"
+     1>LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/OPT:REF"
+     1>main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+         ООП_ЛР1.vcxproj -> C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.exe
+     1>Сборка проекта "C:\Users\ASUS\Desktop\3 курс (5 семестр)\Управление качеством\ЛР2УКтестир\ООП_ЛР1\ООП_ЛР1\ООП_ЛР1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.33
