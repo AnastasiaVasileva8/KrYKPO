@@ -1,4 +1,4 @@
 language: cpp
-  addons:
-    apt:
-      update: true
+addons:
+   apt:
+     update: true
