@@ -1,4 +1,14 @@
 language: cpp
- addons:
-    apt:
-      update: true
+compiler:
+  - clang
+  - gcc
+  before_install:
+  - test -n $CC  && unset CC
+  - test -n $CXX && unset CXX
+  addons:
+  apt:
+    sources:
+      - george-edison55-precise-backports
+    packages:
+      - cmake-data
+      - cmake
